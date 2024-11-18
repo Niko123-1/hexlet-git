@@ -1,3 +1,1 @@
-git is awesome
-new line
-experiment with amend
+Git is awesome, I swear!
